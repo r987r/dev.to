@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/r987r/dev.to)
+
 # One way publishing of your blog posts from a git repo to dev.to
 
 ## First, what is dev.to?

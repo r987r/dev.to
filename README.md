@@ -66,6 +66,6 @@ The following is simply a template that you may want to use for your own version
 
 https://dev.to/r987r
 
-## Blog posts
+## Blog posts-
 
 - [Test](https://dev.to/r987r)

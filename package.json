@@ -1,5 +1,6 @@
 {
   "name": "dev.to",
+  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/r987r/dev.to"
